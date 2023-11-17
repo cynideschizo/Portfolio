@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Place items at the beginning and end of the container */
+  }
+  
+  .left-side {
+    width: 48%; /* Adjust the width as needed */
+  }
+  
+  .right-side {
+    width: 48%; /* Adjust the width as needed */
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+  }
+  
